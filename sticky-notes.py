@@ -124,7 +124,6 @@ unchecked_button.grid(row = 0, column = 3, padx=10)
 # Error Message
 error = Label(root)
 
-# Author Info
 author = Label(root, text="© Swaraj Baral\nGithub: SwarajBaral", bg="#d3d3d3", fg="grey")
 author.pack(side=BOTTOM)
 
